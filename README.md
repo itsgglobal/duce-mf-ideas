@@ -1,6 +1,6 @@
 # Discussion 28.08.20
 
-## Initial assumptions
+## Initial assumptions:
 
 * we took a look on https://github.com/Archi-Lab/fae-team-4/wiki/Christian-Fr%C3%B6hlingsdorf-Challenges-in-the-Field-of-Dynamic-UI-Composition-for-Microservices
 * no context was provided, so we brainstormed rather than audited
